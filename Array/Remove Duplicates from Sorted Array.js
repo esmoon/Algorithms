@@ -3,6 +3,8 @@
 // Explanation: Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
 // It does not matter what you leave beyond the returned k (hence they are underscores).
 
+// Надо вернуть кол-во уникальных элементов
+
 const array = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4, 4, 5, 5];
 //  minIndex      ^
 //   current      ^
