@@ -33,7 +33,7 @@ const nums = [4, 1, 2, 1, 2];
 const func = (array) => {
   let result = 0;
   array.forEach((x) => {
-    return (result ^= x);
+    result ^= x;
   });
   return result;
 };
